@@ -3,7 +3,7 @@
 https://discord-clone-c6a9b.web.app/
 
 #Login Page
-<img src="login.PNG">
+<img src="login.png">
 
 #Main page
-<img src="discord.PNG">
+<img src="discord.png">
